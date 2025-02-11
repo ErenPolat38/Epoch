@@ -1,4 +1,4 @@
-# Tarih ve Saat Farkı Hesaplayıcı (Epoch Kullanımı)
+# Epoch Kullanımı
 Bu proje, kullanıcının girdiği iki farklı tarih ve saat arasındaki zaman farkını epoch zamanı üzerinden hesaplayan bir C programıdır.
 
 ## Epoch Zamanı Nedir?
